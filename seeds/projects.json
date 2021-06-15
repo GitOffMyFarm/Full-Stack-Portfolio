@@ -1,0 +1,32 @@
+[
+    {
+      "title": "Recipe Box",
+      "deployed": "https://gitoffmyfarm.github.io/Project-One-Recipe-Box/",
+      "image": "./Assets/Pictures/RecipeBoxImage.png",
+      "description": "An app used to search for recipes and save the ones you love the most. Heavy use of API's and local storage, currently only deployed in Github pages.",
+      "gitHubLink": "https://github.com/GitOffMyFarm/Project-One-Recipe-Box"
+    },
+    {
+      "title": "Note Taking App",
+      "deployed": "https://mysterious-bastion-22749.herokuapp.com/",
+      "image": "./Assets/Pictures/NoteTaker.png",
+      "description": "An app for writing, saving, and deleting personal notes that launches and works in the browser.",
+      "gitHubLink": "https://github.com/GitOffMyFarm/Note-Taking-App"
+    },
+    {
+      "title": "Password Generator",
+      "deployed": "https://gitoffmyfarm.github.io/Password-Generator/",
+      "image": "./Assets/Pictures/PasswordGenerator.png",
+      "imageAlt": "Snapshot of the password generator launched",
+      "description": "A password generator made to meet a variety of password requirements, utilizes checkboxes in HTML and innerText to convey error messages rather than alerts.",
+      "gitHubLink": "https://github.com/GitOffMyFarm/Password-Generator"
+    },
+    {
+      "title": "Team Profile Generator",
+      "deployed": "https://drive.google.com/file/d/1I8yGlXU2c7xd2mSwAVAwOgrwyZU9DCJW/view",
+      "image": "./Assets/Pictures/generator.PNG",
+      "imageAlt": "Picture of generated team profile",
+      "description": "Console application using inquirer to obtain information about a work team before generator a html page with all that information displayed.",
+      "gitHubLink": "https://github.com/GitOffMyFarm/Profile-Generator"
+    }
+  ]
