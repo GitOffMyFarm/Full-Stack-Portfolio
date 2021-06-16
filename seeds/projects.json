@@ -1,17 +1,17 @@
 [
     {
       "title": "Recipe Box",
-      "deployed": "https://gitoffmyfarm.github.io/Project-One-Recipe-Box/",
+      "deployed": "https://gitoffmyfarm.github.io/Recipe-Box/",
       "image": "./images/RecipeBoxImage.png",
       "description": "An app used to search for recipes and save the ones you love the most. Heavy use of API's and local storage, currently only deployed in Github pages.",
       "gitHubLink": "https://github.com/GitOffMyFarm/Project-One-Recipe-Box"
     },
     {
-      "title": "Note Taking App",
-      "deployed": "https://mysterious-bastion-22749.herokuapp.com/",
-      "image": "./images/NoteTaker.png",
-      "description": "An app for writing, saving, and deleting personal notes that launches and works in the browser.",
-      "gitHubLink": "https://github.com/GitOffMyFarm/Note-Taking-App"
+      "title": "Triply",
+      "deployed": "https://polar-spire-28260.herokuapp.com/",
+      "image": "./images/triply.png",
+      "description": "A Minimalist travel app for those looking to get away and explore some of the smaller cities in America on a budget.",
+      "gitHubLink": "https://github.com/GitOffMyFarm/Escape-Array"
     },
     {
       "title": "Password Generator",
