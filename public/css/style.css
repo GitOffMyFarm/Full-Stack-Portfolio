@@ -1,0 +1,47 @@
+/*Next four elements changes the fonts for everything on the page*/
+h1 {
+    font-family: 'lora', 'serif';
+    font-weight: 900;
+    font-style: bold;
+}
+p {
+    font-family: 'lora', 'serif';
+    font-weight: 400;
+}
+.jumbotron p {
+    font-style: italic;
+}
+h2 {
+    font-family: 'lora', 'serif';
+    font-weight: 700;
+}
+/*Changes card image so size is uniform*/
+.card-img-top {
+    width: 75%;
+    height: 15vw;
+    object-fit: cover;
+    align-self: center;
+}
+.nav {
+    overflow: hidden;
+}
+/*Ensures tab content not on page is hidden so it doesn't effect spacing of other tabs*/
+.tab-content > .tab-pane:not(.active) {
+    display: block;
+    height: 0;
+    overflow-y: hidden;
+} 
+/*Changes background colors of page and cards*/
+body {
+    background-color: #C8D6AF;
+}
+.card {
+    background-color: #FFECCC;
+}
+.list-group-item {
+    background-color: #FFECCC !important;
+}
+/*Changes the color of the active tab*/
+.nav-tabs > a.active {
+    background-color: #FFECCC !important;
+}
